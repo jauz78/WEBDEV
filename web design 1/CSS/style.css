@@ -22,4 +22,7 @@
 #contents > div.cont3 {background: #333;}
 
 /* footer */
-#footer {width: 1200px; height: 100px; background: #222;}
+#footer {}
+#footer .foot1 {float: left; width: 200px; height: 100px; background: #988;}
+#footer .foot2 {float: left; width: 800px; height: 100px; background: #777;}
+#footer .foot3 {float: left; width: 200px; height: 100px; background: #666;}
